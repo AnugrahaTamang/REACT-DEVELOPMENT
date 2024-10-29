@@ -17,6 +17,9 @@ eslint.config.js
 package-lock.json
 package.json
 vite.config.js
+README.md
+.gitignore
+
 
 # Editor directories and files
 .vscode/*
