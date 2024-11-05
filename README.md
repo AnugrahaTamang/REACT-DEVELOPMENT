@@ -1,1 +1,0 @@
-<b>React monster course</b>
